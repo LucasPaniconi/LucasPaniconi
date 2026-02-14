@@ -48,4 +48,3 @@ Git · Docker · Postman · Linux
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/lucas-paniconi-261285284
-- Portfolio:
