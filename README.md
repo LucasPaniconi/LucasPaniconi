@@ -31,17 +31,26 @@ React + Node.js + MongoDB projects built for scalability and real-world use.
 
 ## 🛠 Tech Stack
 
-**Languages**  
-Python · Java · JavaScript · TypeScript · C
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c&theme=dark" />
 
-**Frontend**  
-React · HTML · CSS · Tailwind
+### 🌐 Web / Mobile
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" />
 
-**Backend & Cloud**  
-Node.js · Express · Firebase · MongoDB · Azure IoT Hub
+### ⚙ Backend & APIs
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase&theme=dark" />
 
-**Tools**  
-Git · Docker · Postman · Linux
+### 🗄 Databases
+<img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" />
+
+### ☁ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=azure,aws,docker&theme=dark" />
+
+### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman&theme=dark" />
+
+
+
 
 ---
 
